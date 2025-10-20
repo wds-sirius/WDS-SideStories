@@ -1,0 +1,3 @@
+[submodule "WDS-gachas"]
+	path = WDS-gachas
+	url = https://github.com/wds-sirius/WDS-gachas.git
